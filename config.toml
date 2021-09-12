@@ -1,0 +1,7 @@
+baseURL = "https://github.com/Take-Shige/hugoblogchallenge.git"
+languageCode = "ja"
+title = "上手くいった"
+contentDir = "post"
+theme = "ananke"
+[taxonomies]
+tag = "tags"
