@@ -2,6 +2,8 @@ baseURL = "https://take-shige.github.io/hugoblogchallenge/"
 languageCode = "ja"
 title = "上手くいった"
 contentDir = "post"
+canonifyurls = true
 theme = "ananke"
+publishDir = "docs"
 [taxonomies]
 tag = "tags"
