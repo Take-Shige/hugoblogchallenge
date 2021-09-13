@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>上手くいった</title>
+    <link>https://take-shige.github.io/hugoblogchallenge/</link>
+    <description>Recent content on 上手くいった</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 12 Sep 2021 08:42:16 -0700</lastBuildDate>
+    
+	<atom:link href="https://take-shige.github.io/hugoblogchallenge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://take-shige.github.io/hugoblogchallenge/article/hello-world/</link>
+      <pubDate>Sun, 12 Sep 2021 08:41:57 -0700</pubDate>
+      
+      <guid>https://take-shige.github.io/hugoblogchallenge/article/hello-world/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://take-shige.github.io/hugoblogchallenge/article/hello-hugo/</link>
+      <pubDate>Sun, 12 Sep 2021 08:41:47 -0700</pubDate>
+      
+      <guid>https://take-shige.github.io/hugoblogchallenge/article/hello-hugo/</guid>
+      <description>Hello Hugo!</description>
+    </item>
+    
+  </channel>
+</rss>
